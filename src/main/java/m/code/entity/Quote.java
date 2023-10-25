@@ -21,8 +21,5 @@ public class Quote {
         this.text = text;
         this.author = author;
     }
-    public Quote() {
-    }
-
 }
 
